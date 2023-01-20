@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be2e9144-4fe1-45f5-a6a5-cb35fb95f768" name="Changes" comment="commit updated" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HpGz5r0zpM2G9VXZX3vEiI4Sn0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/Desktop/Evgeniy/JavaProjects/usersbugred/testing.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="userbugred_api" />
+      <recent name="db_connection" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Home/Desktop/Evgeniy/JavaProjects/usersbugred/testng.xml">
+    <configuration name="C:/Users/Home/Desktop/Evgeniy/JavaProjects/usersbugred/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="usersbugred" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteTaskTemp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="usersbugred" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="userbugred_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="userbugred_api" />
+      <option name="MAIN_CLASS_NAME" value="userbugred_api.DeleteTaskTemp" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="usersbugred" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="userbugred_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="userbugred_api" />
+      <option name="MAIN_CLASS_NAME" value="userbugred_api.DeleteUser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="usersbugred" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="userbugred_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="userbugred_api" />
+      <option name="MAIN_CLASS_NAME" value="userbugred_api.DeleteUser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoRegister" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="usersbugred" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="userbugred_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="userbugred_api" />
+      <option name="MAIN_CLASS_NAME" value="userbugred_api.DoRegister" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoRegister.doRegister" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="usersbugred" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="userbugred_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="userbugred_api" />
+      <option name="MAIN_CLASS_NAME" value="userbugred_api.DoRegister" />
+      <option name="METHOD_NAME" value="doRegister" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit" type="TestNG">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuit" />
+      <item itemvalue="TestNG.DeleteTaskTemp" />
+      <item itemvalue="TestNG.DoRegister" />
+      <item itemvalue="TestNG.DoRegister.doRegister" />
+      <item itemvalue="TestNG.C:/Users/Home/Desktop/Evgeniy/JavaProjects/usersbugred/testng.xml" />
+      <item itemvalue="TestNG.DeleteUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Home/Desktop/Evgeniy/JavaProjects/usersbugred/testng.xml" />
+        <item itemvalue="TestNG.DoRegister" />
+        <item itemvalue="TestNG.DeleteUser" />
+        <item itemvalue="TestNG.DoRegister.doRegister" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be2e9144-4fe1-45f5-a6a5-cb35fb95f768" name="Changes" comment="" />
+      <created>1668974872202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668974872202</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1669067420918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669067420918</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit1">
+      <created>1669067872798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669067872798</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit1">
+      <created>1669067912437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669067912437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit2">
+      <created>1669073162187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669073162188</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit4">
+      <created>1669133745167</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669133745167</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit changes: Api tests added. UI tests edited.">
+      <created>1669157557445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669157557445</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit changes: added POJO class">
+      <created>1669316627604</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669316627604</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit changes: added response pojo class">
+      <created>1669472324004</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669472324004</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit changes: push to master">
+      <created>1669817939725</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669817939725</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit changes: push to master">
+      <created>1669904264116</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669904264116</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit avatar change feature">
+      <created>1670011710847</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670011710848</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit resource delete java class">
+      <created>1670080945490</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670080945490</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit first JDBC connection">
+      <created>1670101421035</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670101421035</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit task deletion added">
+      <created>1670365302342</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670365302342</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit endpoints">
+      <created>1670365532213</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670365532213</updated>
+    </task>
+    <task id="LOCAL-00016" summary="commit restructure">
+      <created>1670370018462</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670370018462</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit testNG xml testsuit">
+      <created>1670441884724</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670441884724</updated>
+    </task>
+    <task id="LOCAL-00018" summary="commit latest work version">
+      <created>1670529532490</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670529532490</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit selenide version 1">
+      <created>1670972160876</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670972160876</updated>
+    </task>
+    <task id="LOCAL-00020" summary="commit selenide db query update">
+      <created>1671040354035</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671040354035</updated>
+    </task>
+    <task id="LOCAL-00021" summary="commit changes on 10/01/23">
+      <created>1673357435405</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673357435405</updated>
+    </task>
+    <task id="LOCAL-00022" summary="commit changes on 10/01/23">
+      <created>1673357715456</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673357715456</updated>
+    </task>
+    <task id="LOCAL-00023" summary="commit changes on 10/01/23">
+      <created>1673425089157</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673425089157</updated>
+    </task>
+    <task id="LOCAL-00024" summary="commit fullupdateuser">
+      <created>1673557155689</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1673557155689</updated>
+    </task>
+    <task id="LOCAL-00025" summary="commit lombok added">
+      <created>1673560693406</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1673560693406</updated>
+    </task>
+    <task id="LOCAL-00026" summary="commit delete company added">
+      <created>1673617175163</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1673617175163</updated>
+    </task>
+    <task id="LOCAL-00027" summary="commit delete company latest v">
+      <created>1673643390166</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1673643390166</updated>
+    </task>
+    <task id="LOCAL-00028" summary="commit updated deleteTask class">
+      <created>1673896946620</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1673896946620</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commit updated deleteTask class">
+      <created>1673897076535</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1673897076535</updated>
+    </task>
+    <task id="LOCAL-00030" summary="commit updated">
+      <created>1674139739900</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1674139739900</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit2" />
+    <MESSAGE value="commit3" />
+    <MESSAGE value="commit4" />
+    <MESSAGE value="commit changes: Api tests added. UI tests edited." />
+    <MESSAGE value="commit changes: added POJO class" />
+    <MESSAGE value="commit changes: added response pojo class" />
+    <MESSAGE value="commit changes: push to master" />
+    <MESSAGE value="commit avatar change feature" />
+    <MESSAGE value="commit resource delete java class" />
+    <MESSAGE value="commit first JDBC connection" />
+    <MESSAGE value="commit task deletion added" />
+    <MESSAGE value="commit endpoints" />
+    <MESSAGE value="commit restructure" />
+    <MESSAGE value="commit testNG xml testsuit" />
+    <MESSAGE value="commit latest work version" />
+    <MESSAGE value="commit selenide version 1" />
+    <MESSAGE value="commit selenide db query update" />
+    <MESSAGE value="commit changes on 10/01/23 (DeleteTask)" />
+    <MESSAGE value="commit changes on 10/01/23" />
+    <MESSAGE value="commit fullupdateuser" />
+    <MESSAGE value="commit lombok added" />
+    <MESSAGE value="commit delete company added" />
+    <MESSAGE value="commit delete company latest v" />
+    <MESSAGE value="commit updated deleteTask class" />
+    <MESSAGE value="commit updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit updated" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

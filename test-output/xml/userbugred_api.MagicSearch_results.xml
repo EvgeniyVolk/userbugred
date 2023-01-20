@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API Tests"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1,196">
+    <properties></properties>
+
+
+
+            <testcase
+                name="magicSearch"
+                time="1,196"
+                classname="userbugred_api.MagicSearch">
+            </testcase>
+</testsuite>

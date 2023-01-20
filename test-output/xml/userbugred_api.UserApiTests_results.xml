@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="usersbugred"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2,808">
+    <properties></properties>
+
+
+
+            <testcase
+                name="createTask"
+                time="2,808"
+                classname="userbugred_api.UserApiTests">
+            </testcase>
+</testsuite>

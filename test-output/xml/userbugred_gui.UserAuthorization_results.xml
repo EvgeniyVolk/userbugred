@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GUI Tests"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13,831">
+    <properties></properties>
+
+
+
+            <testcase
+                name="registerAsExistingUser"
+                time="11,953"
+                classname="userbugred_gui.UserAuthorization">
+            </testcase>
+            <testcase
+                name="loginAsRegisteredUser"
+                time="1,878"
+                classname="userbugred_gui.UserAuthorization">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API Tests"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4,771">
+    <properties></properties>
+
+
+
+            <testcase
+                name="doRegister"
+                time="4,771"
+                classname="userbugred_api.DoRegister">
+            </testcase>
+</testsuite>

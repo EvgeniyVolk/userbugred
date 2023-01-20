@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="usersbugred"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0,806">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getUsersQuery"
+                time="0,806"
+                classname="db_connection.SelectUsersQuery">
+            </testcase>
+</testsuite>
